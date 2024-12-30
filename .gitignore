@@ -1,2 +1,4 @@
 .env
 deep-learning.ai/multi-agent-crew.ai/db/*
+rag-applications/agentic-rag/__pycache__/*
+rag-applications/agentic-rag/tmp/*
